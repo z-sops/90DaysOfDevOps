@@ -1,1 +1,1 @@
-Name: [zeeshan baig]\nIntroduction: I am participating in the 90DaysOfDevOps challenge to learn Git and DevOps basics.
+Name: zee\nIntroduction: I am participating in the 90DaysOfDevOps challenge to learn Git and DevOps basics.
