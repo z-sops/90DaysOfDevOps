@@ -1,0 +1,33 @@
+
+
+## 🧾 Task 1: Introduction to Docker in DevOps
+
+### What is Docker?
+
+Docker is a platform that allows developers to build, run, and deploy applications in **containers** — lightweight, isolated environments that include everything an app needs to run.
+
+### Why Docker in DevOps?
+
+- Ensures consistent environments from development to production.
+- Simplifies deployment and scaling.
+- Integrates easily with CI/CD pipelines.
+- Improves collaboration between development and operations teams.
+
+### Virtualization vs. Containerization
+
+| Feature | **Virtualization (VMs)** | **Containerization (Docker)** |
+|--------|---------------------------|-------------------------------|
+| Runs full OS | ✅ Yes | ❌ No (shares host OS kernel) |
+| Resource usage | High | Low |
+| Startup time | Slow | Fast |
+| Isolation type | Hardware-level | Process-level |
+
+### Why Containerization is Preferred
+
+- Lightweight and fast to start.
+- Ideal for **microservices architecture** — each service runs in its own container.
+- Supports efficient **CI/CD pipelines** with consistent builds and deployments.
+
+---
+
+Let me know if you want this in bullet-point form or simplified further!
